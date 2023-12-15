@@ -1,0 +1,7 @@
+variables,values
+Number of stages,21
+month for initial storage,3
+day for initial storage,31
+nuber of rows from begening of USACE forecsat to drop,3
+nuber of rows from End of USACE forecsat to drop,0
+number of small trees,7
